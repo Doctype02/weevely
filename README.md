@@ -10,7 +10,7 @@ Weevely - Weaponized web shell
 ## Install weevely
 
 ```
-https://github.com/Doctype02/weevly.git
+git clone https://github.com/Doctype02/weevly.git
 cd weevly/ 
 pip3 install -r requirements.txt
 ```
