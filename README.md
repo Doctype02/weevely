@@ -10,6 +10,12 @@ Weevely - Weaponized web shell
 ## Usage
 
 ```
+sudo rm /usr/local/bin/weevely
+sudo ln -s $(pwd)/weevely.py /usr/local/bin/weevely
+weevely generate 123456 ~/agent.php
+
+```
+```
 weevely generate <password> <path>
 weevely <URL> <password> [cmd]
 ```
