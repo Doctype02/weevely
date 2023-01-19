@@ -7,7 +7,7 @@ Weevely
 
 Weevely - Weaponized web shell
 
-## Usage
+## config in the system
 
 ```
 sudo rm /usr/local/bin/weevely
@@ -15,6 +15,7 @@ sudo ln -s $(pwd)/weevely.py /usr/local/bin/weevely
 weevely generate 123456 ~/agent.php
 
 ```
+## Usage
 ```
 weevely generate <password> <path>
 weevely <URL> <password> [cmd]
