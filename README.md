@@ -7,7 +7,7 @@ Weevely
 
 Weevely - Weaponized web shell
 
-## Install weevely
+## Install weevly
 
 ```
 git clone https://github.com/Doctype02/weevly.git
