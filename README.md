@@ -17,9 +17,9 @@ pip3 install -r requirements.txt
 
 ## config in the system
 
-´´´
+```
 sudo ln -s $(pwd)/weevely.py /usr/local/bin/weevely
-´´´
+```
 or
 ```
 sudo rm /usr/local/bin/weevely
